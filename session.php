@@ -10,7 +10,7 @@
 
    $user_check = $_SESSION['login_user'];
 
-   $ses_sql = mysqli_query($db,"select username from table1 where username = '$user_check' ");``
+   $ses_sql = mysqli_query($db,"select username from table1 where username = '$user_check' ");
   if($ses_sql === FALSE){
       die(mysql_error()); // TODO: better error handling
 
