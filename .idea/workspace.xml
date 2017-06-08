@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ebd43250-c1d4-447c-a74e-0c556d9120d2" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/session.php" afterPath="$PROJECT_DIR$/session.php" />
     </list>
     <ignored path="hostel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,7 +207,13 @@
       <option name="project" value="LOCAL" />
       <updated>1496918413492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second">
+      <created>1496918438633</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496918438633</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -241,7 +246,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
